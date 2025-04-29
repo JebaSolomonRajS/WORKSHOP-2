@@ -14,8 +14,8 @@ To Perform real-time object detection using a trained YOLO v4 model through your
 
 ## PROGRAM :
 ```
-Developed By : Malligesh
-Register No : 212223230119
+Developed By : Jeba Solomon Raj S
+Register No : 212223230089
 ```
 ```
 !pip install opencv-python numpy
@@ -95,8 +95,7 @@ cv2.destroyAllWindows()
 
 ```
 ## OUTPUT :
-
-![image](https://github.com/user-attachments/assets/05ca7f01-4192-46ce-8ebb-2ecdf5bc2b20)
+![workshop](https://github.com/user-attachments/assets/e80d50c4-e147-40f2-ae74-6835b3ef8ba1)
 
 ## RESULT :
 Thius, Successfully Performed real-time object detection using a trained YOLO v4 model through my laptop camera.
